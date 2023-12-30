@@ -5,3 +5,5 @@ Joinville
 São José dos Campos
 Blumenau
 Monte Carmelo
+Campinas
+Guarulhos
