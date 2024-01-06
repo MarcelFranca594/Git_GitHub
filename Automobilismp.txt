@@ -5,3 +5,4 @@ As categoriais de automobilismo mais importantes do Brasil
 # Campeonato brasileiro de turismo
 # Campeonato Brasileiro de Marcas
 # Campeonato Brasileiro de Kart
+# Corrida do Milhão
