@@ -4,3 +4,6 @@ Materias
 Microcontrolador
 CLP
 Controle
+Instrumentacao
+Robotica
+IA
