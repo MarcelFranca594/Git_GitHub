@@ -2,10 +2,12 @@ Engenharia de Controle e Automação
 
 Materias 
 Microcontrolador
-CLP
+CLP I e II
 Controle
 Instrumentacao
 Robotica
 IA
 Eletrônica de Potência
 Eletrônica Digital
+Circuitos Eletricos 
+Eletropneumática
