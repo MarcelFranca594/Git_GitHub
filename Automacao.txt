@@ -7,3 +7,5 @@ Controle
 Instrumentacao
 Robotica
 IA
+Eletrônica de Potência
+Eletrônica Digital
