@@ -24,3 +24,5 @@ Vasco
 Portuguesa
 Guarani
 Novo Horizontino
+Operario
+Mixto
