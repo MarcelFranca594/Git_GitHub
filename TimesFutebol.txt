@@ -35,3 +35,6 @@ Malaga
 Fluminense
 Fortaleza
 Bahia
+Ceara
+CRB
+América-RN
