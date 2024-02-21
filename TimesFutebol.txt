@@ -40,3 +40,4 @@ CRB
 América-RN
 Volta redonda
 Santa Cruz
+Operário
