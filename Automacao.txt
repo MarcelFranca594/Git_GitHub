@@ -13,3 +13,4 @@ Circuitos Eletricos
 Eletropneumática
 -------------------------------------
 Programação de projeto de Automação com CLP
+Inteligência Artificial
