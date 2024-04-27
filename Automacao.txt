@@ -11,3 +11,5 @@ Eletrônica de Potência
 Eletrônica Digital
 Circuitos Eletricos 
 Eletropneumática
+-------------------------------------
+Programação de projeto de Automação com CLP
