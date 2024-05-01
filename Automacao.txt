@@ -17,3 +17,4 @@ Inteligência Artificial
 Controle Discreto e Continuo
 Robotica
 calculo IA
+Logica de Programação
