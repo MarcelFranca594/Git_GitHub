@@ -16,3 +16,4 @@ Programação de projeto de Automação com CLP
 Inteligência Artificial
 Controle Discreto e Continuo
 Robotica
+calculo IA
