@@ -20,3 +20,4 @@ calculo IA
 Logica de Programação
 Redes Industriais
 Eletrônica de Potencia
+Algebra Linear
