@@ -19,3 +19,4 @@ Robotica
 calculo IA
 Logica de Programação
 Redes Industriais
+Eletrônica de Potencia
