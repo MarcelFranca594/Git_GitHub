@@ -21,3 +21,4 @@ Logica de Programação
 Redes Industriais
 Eletrônica de Potencia
 Algebra Linear
+Eficiência Energetica
