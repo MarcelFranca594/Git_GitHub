@@ -22,3 +22,4 @@ Redes Industriais
 Eletrônica de Potencia
 Algebra Linear
 Eficiência Energetica
+Manutenção de Máquinas
