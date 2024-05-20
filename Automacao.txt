@@ -25,3 +25,4 @@ Eficiência Energetica
 Manutenção de Máquinas
 Programação de CLPs e IHMs
 Instalação elétricas
+Algoritimo II
